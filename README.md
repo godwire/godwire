@@ -55,28 +55,6 @@ freelancing and building developer tools in the open.
   <img src="https://img.shields.io/badge/-Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
 </p>
 
-## 🎓 Education & certifications
-
-**M.Sc. — Intelligent Systems**, Technical University of Košice
-<br /><sub>Thesis: Detection of toxic behaviour based on multimodal data classification</sub>
-
-**B.Sc. — Intelligent Systems**, Technical University of Košice
-<br /><sub>Thesis: Explaining deep neural networks</sub>
-
-HackerRank (Python Developer, Problem Solving, SQL) · IBM (Full Stack Developer,
-Python for Data Science/AI) · Postman Academy (API Development) · MathWorks (24
-certifications in ML, deep learning and computer vision)
-
-## 🌍 Languages
-
-English C1 · Slovak C1 · Russian C2 · Ukrainian C2 · Japanese JLPT N5
-
-## 📊 GitHub
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=godwire&show_icons=true&hide_border=true&theme=github_dark&count_private=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=godwire&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Top languages" height="165" />
-</p>
 
 ## 📄 Résumé
 
