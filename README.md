@@ -56,6 +56,4 @@ freelancing and building developer tools in the open.
 </p>
 
 
-## 📄 Résumé
 
-Full CV in this repository: **[Heorhii Tolstoukhov — CV (PDF)](./Heorhii%20Tolstoukhov%20-%20CV.pdf)**
