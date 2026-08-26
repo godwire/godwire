@@ -4,23 +4,17 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=godwire&label=Profile%20views&color=6b5bff&style=flat-square" alt="Profile views" />
-  <a href="https://www.linkedin.com/in/heorhii-tolstoukhov-33899826/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/tolstoukhov654">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black" alt="HackerRank" />
-  </a>
-  <a href="https://medium.com/@tolstoukhov654">
-    <img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-  <a href="https://exercism.org/profiles/godwire">
-    <img src="https://img.shields.io/badge/Exercism-009CAB?style=flat-square&logo=exercism&logoColor=white" alt="Exercism" />
-  </a>
-  <a href="https://stackoverflow.com/users/33068374/godwire">
-    <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
-  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/heorhii-tolstoukhov-33899826/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="https://www.hackerrank.com/profile/tolstoukhov654"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black" alt="HackerRank" /></a>
+  &nbsp;
+  <a href="https://medium.com/@tolstoukhov654"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium" /></a>
+  &nbsp;
+  <a href="https://exercism.org/profiles/godwire"><img src="https://img.shields.io/badge/Exercism-009CAB?style=flat-square&logo=exercism&logoColor=white" alt="Exercism" /></a>
+  &nbsp;
+  <a href="https://stackoverflow.com/users/33068374/godwire"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
 </p>
-
 ## 📖 About me
 
 AI developer with 3+ years of experience across Python, AI/ML model development and
