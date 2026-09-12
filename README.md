@@ -1,66 +1,69 @@
 <h1 align="center">Heorhii Tolstoukhov</h1>
 
-<p align="center"><b>AI Software Engineer</b> · Košice, Slovakia</p>
+<p align="center">
+  AI Software Engineer · Košice, Slovakia
+</p>
 
-<p align="center">ы
-  <img src="https://komarev.com/ghpvc/?username=godwire&label=Profile%20views&color=6b5bff&style=flat-square" alt="Profile views" />
-  &nbsp;
-  <a href="https://www.linkedin.com/in/heorhii-tolstoukhov-33899826/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  &nbsp;
-  <a href="https://www.hackerrank.com/profile/tolstoukhov654"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black" alt="HackerRank" /></a>
-  &nbsp;
+<p align="center">
+  <a href="https://www.linkedin.com/in/heorhii-tolstoukhov-33899826a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://medium.com/@tolstoukhov654"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium" /></a>
-  &nbsp;
+  <a href="https://www.hackerrank.com/profile/tolstoukhov654"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black" alt="HackerRank" /></a>
   <a href="https://exercism.org/profiles/godwire"><img src="https://img.shields.io/badge/Exercism-009CAB?style=flat-square&logo=exercism&logoColor=white" alt="Exercism" /></a>
-  &nbsp;
   <a href="https://stackoverflow.com/users/33068374/godwire"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
-</p>
-## 📖 About me
-
-AI developer with 3+ years of experience across Python, AI/ML model development and
-full-stack engineering. I build end-to-end solutions — data preparation, model
-development, deployment and delivery to the client — and I like the parts most people
-skip: tests, CI, documentation and error messages that explain themselves.
-
-M.Sc. in Intelligent Systems from the Technical University of Košice. Currently
-freelancing and building developer tools in the open.
-
-
-## 🧑‍💻 I code with
-
-<p>
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /></a>
-  <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /></a>
-  <a href="https://learn.microsoft.com/dotnet/csharp/"><img src="https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#" /></a>
-  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/-SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" /></a>
+  <img src="https://komarev.com/ghpvc/?username=godwire&label=Views&color=6b5bff&style=flat-square" alt="Profile views" />
 </p>
 
-## 🤖 AI / ML
+---
 
-<p>
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+I build end-to-end: data preparation, model development, deployment, and the
+delivery to whoever has to use it. M.Sc. in Intelligent Systems from the
+Technical University of Košice, 3+ years across Python, TypeScript, C# and SQL.
+
+I like the parts most people skip — tests, CI, documentation, and error messages
+that explain themselves. Most of what I build ends up open source and published,
+because a package someone can actually install is a better argument than a
+screenshot.
+
+Previously took **BudgetMate**, an AI expense-tracking assistant, from idea to a
+working product and sold it to an investor.
+
+## Published
+
+| | | |
+|---|---|---|
+| **[react-spotlight-card](https://github.com/godwire/react-spotlight-card)** | A card with a cursor-tracking spotlight glow. ~1 kB gzipped, zero dependencies, React 17–19. | [npm](https://www.npmjs.com/package/react-spotlight-card) · [demo](https://react-spotlight-card-demo.vercel.app) |
+| **[react-aurora-background](https://github.com/godwire/react-aurora-background)** | An animated aurora background in WebGL and GLSL. No dependencies, 3.85 kB gzipped. | [npm](https://www.npmjs.com/package/react-aurora-background) · [demo](https://react-aurora-background.vercel.app) |
+
+## In progress
+
+| | |
+|---|---|
+| **[LookCheckAI](https://github.com/godwire/LookCheckAI)** | Recommends outfits from your own wardrobe based on weather, occasion and style. React Native and Expo on the front, Flask on the back. |
+| **SchemaLink** | An embeddable visual data-mapping SDK — framework-independent TypeScript core plus a Vue UI, built around a JSON-serialisable mapping spec. |
+| **promptxray** | An ablation tool for LLM prompt classifiers: removes one block of your prompt at a time, measures what each one is actually worth, and shows the prompt colour-coded by its measured effect. |
+
+## Tools
+
+**Languages** — Python · TypeScript · JavaScript · C# · SQL
+
+**AI / ML** — PyTorch · TensorFlow · Hugging Face · scikit-learn · OpenCV · pandas · NumPy
+
+**Backend** — FastAPI · Flask · Django · Node.js · PostgreSQL · Redis
+
+**Infrastructure** — Docker · Linux · Firebase · GitHub Actions
+
+**Frontend** — React · React Native · Vue · Vite
+
+<br />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=godwire&show_icons=true&hide_border=true&theme=transparent&hide_title=true&hide=issues" alt="GitHub stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=godwire&layout=compact&hide_border=true&theme=transparent&hide_title=true&langs_count=6" alt="Most used languages" height="150" />
 </p>
 
-## 📚 Backend & infrastructure
+---
 
-<p>
-  <img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/-Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/-Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/-Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
+<p align="center">
+  Open to AI, backend and full-stack roles — on-site in Košice or remote.<br />
+  <a href="https://www.linkedin.com/in/heorhii-tolstoukhov-33899826a/">Reach me on LinkedIn</a>
 </p>
-
-
-
