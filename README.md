@@ -2,7 +2,7 @@
 
 <p align="center"><b>AI Software Engineer</b> · Košice, Slovakia</p>
 
-<p align="center">
+<p align="center">ы
   <img src="https://komarev.com/ghpvc/?username=godwire&label=Profile%20views&color=6b5bff&style=flat-square" alt="Profile views" />
   &nbsp;
   <a href="https://www.linkedin.com/in/heorhii-tolstoukhov-33899826/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
